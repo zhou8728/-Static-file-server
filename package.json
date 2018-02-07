@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "zlib": "^1.0.5"
+  }
+}
